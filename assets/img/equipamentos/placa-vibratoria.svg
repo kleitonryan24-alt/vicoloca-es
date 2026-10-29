@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Ilustração de placa vibratória com motor e guidão">
+  <defs>
+    <pattern id="tex" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect width="24" height="24" fill="#D9D6D0"/>
+      <circle cx="6" cy="6" r="1.2" fill="#c9c5bd" opacity="0.7"/>
+      <circle cx="18" cy="16" r="1" fill="#c9c5bd" opacity="0.6"/>
+    </pattern>
+  </defs>
+  <rect width="640" height="480" fill="url(#tex)"/>
+  <polygon points="0,420 640,380 640,480 0,480" fill="#333333" opacity="0.14"/>
+  <g stroke="#333333" stroke-width="6" opacity="0.5">
+    <path d="M110 424 h60 M200 432 h60 M300 424 h60 M400 432 h60"/>
+  </g>
+  <g stroke="#333333" stroke-width="9" stroke-linejoin="round" stroke-linecap="round">
+    <!-- placa -->
+    <rect x="200" y="352" width="270" height="46" rx="10" fill="#FF7900"/>
+    <rect x="188" y="340" width="294" height="18" rx="8" fill="#333333"/>
+    <!-- motor -->
+    <rect x="268" y="258" width="140" height="86" rx="12" fill="#FFFFFF"/>
+    <rect x="292" y="276" width="44" height="30" rx="6" fill="#FF7900"/>
+    <circle cx="376" cy="296" r="16" fill="#D9D6D0"/>
+    <path d="M400 268 h26 v-24" fill="none"/>
+    <!-- guidão -->
+    <path d="M300 258 L232 132" fill="none" stroke-width="13" stroke="#FF7900"/>
+    <path d="M232 132 h-58" stroke-width="13"/>
+  </g>
+  <!-- vibração -->
+  <g stroke="#333333" stroke-width="5" fill="none" opacity="0.55">
+    <path d="M150 396 q-16 14 0 28"/>
+    <path d="M516 392 q16 14 0 28"/>
+  </g>
+</svg>

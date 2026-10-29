@@ -80,8 +80,8 @@ window.VICOM_CATALOGO = {
                                                  "Respeite a carga máxima do tambor indicada pela equipe na entrega",
                                                  "Após o uso, lave o tambor com água para evitar endurecimento do resíduo"
                                              ],
-                             "imagem":  "assets/img/equipamentos/betoneira.svg",
-                             "imagemAlt":  "Ilustração de betoneira de construção com tambor inclinado"
+                             "imagem":  "assets/img/equipamentos/betoneira-400l.svg",
+                             "imagemAlt":  "Ilustração de betoneira de 400 litros com tambor inclinado"
                          },
                          {
                              "slug":  "betoneira-350l",
@@ -122,8 +122,8 @@ window.VICOM_CATALOGO = {
                                                  "Não sobrecarregue o tambor além da capacidade indicada",
                                                  "Limpe o tambor diariamente ao final dos serviços"
                                              ],
-                             "imagem":  "assets/img/equipamentos/betoneira.svg",
-                             "imagemAlt":  "Ilustração de betoneira de construção com tambor inclinado"
+                             "imagem":  "assets/img/equipamentos/betoneira-350l.svg",
+                             "imagemAlt":  "Ilustração de betoneira compacta de 350 litros"
                          },
                          {
                              "slug":  "betoneira-560l",
@@ -164,8 +164,8 @@ window.VICOM_CATALOGO = {
                                                  "Utilize carrinho ou apoio adequado para o deslocamento no canteiro",
                                                  "Faça a lavagem do tambor ao final de cada dia de uso"
                                              ],
-                             "imagem":  "assets/img/equipamentos/betoneira.svg",
-                             "imagemAlt":  "Ilustração de betoneira de construção com tambor inclinado"
+                             "imagem":  "assets/img/equipamentos/betoneira-560l.svg",
+                             "imagemAlt":  "Ilustração de betoneira de grande capacidade, 560 litros"
                          },
                          {
                              "slug":  "andaime-fachadeiro",
@@ -206,8 +206,8 @@ window.VICOM_CATALOGO = {
                                                  "Verifique o nívelamento do terreno antes da montagem",
                                                  "Não altere a estrutura montada sem orientação da equipe técnica"
                                              ],
-                             "imagem":  "assets/img/equipamentos/andaime.svg",
-                             "imagemAlt":  "Ilustração de painel de andaime metálico montado em fachada"
+                             "imagem":  "assets/img/equipamentos/andaime-fachadeiro.svg",
+                             "imagemAlt":  "Ilustração de andaime fachadeiro montado com painéis metálicos"
                          },
                          {
                              "slug":  "andaime-torre",
@@ -248,8 +248,8 @@ window.VICOM_CATALOGO = {
                                                  "Confirme a resistência do piso de apoio antes da montagem",
                                                  "Siga as orientações de ancoragem informadas pela equipe"
                                              ],
-                             "imagem":  "assets/img/equipamentos/andaime.svg",
-                             "imagemAlt":  "Ilustração de andaime torre metálico modular"
+                             "imagem":  "assets/img/equipamentos/andaime-torre.svg",
+                             "imagemAlt":  "Ilustração de andaime torre com plataforma e estabilizadores"
                          },
                          {
                              "slug":  "escora-metalica-3m",
@@ -290,8 +290,8 @@ window.VICOM_CATALOGO = {
                                                  "Use base e chapéu de apoio adequados ao tipo de estrutura",
                                                  "Verifique o travamento dos pinos antes da concretagem"
                                              ],
-                             "imagem":  "assets/img/equipamentos/escora.svg",
-                             "imagemAlt":  "Ilustração de escora metálica regulável com furos de ajuste"
+                             "imagem":  "assets/img/equipamentos/escora-metalica-3m.svg",
+                             "imagemAlt":  "Ilustração de escora metálica regulável curta, até 3 metros"
                          },
                          {
                              "slug":  "escora-metalica-4m",
@@ -332,8 +332,8 @@ window.VICOM_CATALOGO = {
                                                  "Distribua as escoras conforme o espaçamento indicado pelo responsável técnico",
                                                  "Não remova as escoras antes da cura completa do concreto"
                                              ],
-                             "imagem":  "assets/img/equipamentos/escora.svg",
-                             "imagemAlt":  "Ilustração de escora metálica regulável de maior altura"
+                             "imagem":  "assets/img/equipamentos/escora-metalica-4m.svg",
+                             "imagemAlt":  "Ilustração de escora metálica regulável alta, até 4 metros"
                          },
                          {
                              "slug":  "compactador-solo",
@@ -374,8 +374,8 @@ window.VICOM_CATALOGO = {
                                                  "Evite compactar muito próximo a estruturas e tubulações aparentes",
                                                  "Faça abastecimento apenas com o motor desligado e frio"
                                              ],
-                             "imagem":  "assets/img/equipamentos/compactador.svg",
-                             "imagemAlt":  "Ilustração de compactador de solo com motor e base vibratória"
+                             "imagem":  "assets/img/equipamentos/compactador-solo.svg",
+                             "imagemAlt":  "Ilustração de compactador de solo com dois tambores"
                          },
                          {
                              "slug":  "placa-vibratoria",
@@ -416,8 +416,8 @@ window.VICOM_CATALOGO = {
                                                  "Passe em camadas finas para melhor resultado de compactação",
                                                  "Abasteça apenas com o motor desligado"
                                              ],
-                             "imagem":  "assets/img/equipamentos/compactador.svg",
-                             "imagemAlt":  "Ilustração de placa vibratória com guidão"
+                             "imagem":  "assets/img/equipamentos/placa-vibratoria.svg",
+                             "imagemAlt":  "Ilustração de placa vibratória com motor e guidão"
                          },
                          {
                              "slug":  "martelete-7kg",
@@ -458,8 +458,8 @@ window.VICOM_CATALOGO = {
                                                  "Verifique a fixação da broca ou ponteiro antes de ligar",
                                                  "Não force o equipamento em operação contínua prolongada"
                                              ],
-                             "imagem":  "assets/img/equipamentos/martelete.svg",
-                             "imagemAlt":  "Ilustração de martelete de construção com punho e broca"
+                             "imagem":  "assets/img/equipamentos/martelete-7kg.svg",
+                             "imagemAlt":  "Ilustração de martelete rompedor de 7 kg"
                          },
                          {
                              "slug":  "furadeira-impacto",
@@ -500,8 +500,8 @@ window.VICOM_CATALOGO = {
                                                  "Confirme o tipo de broca adequado ao material",
                                                  "Descanse o equipamento em furações longas para evitar sobreaquecimento"
                                              ],
-                             "imagem":  "assets/img/equipamentos/martelete.svg",
-                             "imagemAlt":  "Ilustração de furadeira de impacto"
+                             "imagem":  "assets/img/equipamentos/furadeira-impacto.svg",
+                             "imagemAlt":  "Ilustração de furadeira de impacto com punho e broca"
                          }
                      ]
 };

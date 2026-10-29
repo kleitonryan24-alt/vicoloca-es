@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Ilustração de andaime torre metálico com plataforma">
+  <defs>
+    <pattern id="tex" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect width="24" height="24" fill="#D9D6D0"/>
+      <circle cx="6" cy="6" r="1.2" fill="#c9c5bd" opacity="0.7"/>
+      <circle cx="18" cy="16" r="1" fill="#c9c5bd" opacity="0.6"/>
+    </pattern>
+  </defs>
+  <rect width="640" height="480" fill="url(#tex)"/>
+  <polygon points="0,440 640,400 640,480 0,480" fill="#333333" opacity="0.12"/>
+  <!-- prumas da torre -->
+  <g stroke="#333333" stroke-width="10" stroke-linecap="round" fill="none">
+    <path d="M272 92 V428"/>
+    <path d="M372 92 V428"/>
+  </g>
+  <!-- degraus / travessas com diagonais -->
+  <g stroke="#333333" stroke-width="8" fill="none">
+    <path d="M272 160 H372 M272 232 H372 M272 304 H372 M272 376 H372"/>
+    <path d="M272 160 L372 232 M372 160 L272 232" stroke="#FF7900" stroke-width="9"/>
+    <path d="M272 304 L372 376 M372 304 L272 376" stroke="#FF7900" stroke-width="9"/>
+  </g>
+  <!-- plataforma com guarda-corpo -->
+  <g fill="#FF7900" stroke="#333333" stroke-width="8">
+    <rect x="248" y="70" width="148" height="22" rx="4"/>
+  </g>
+  <g stroke="#333333" stroke-width="8" stroke-linecap="round" fill="none">
+    <path d="M252 70 V32 M392 70 V32 M252 32 H392"/>
+  </g>
+  <!-- estabilizadores de base -->
+  <g stroke="#333333" stroke-width="10" stroke-linecap="round" fill="none">
+    <path d="M272 428 L214 458 M372 428 L430 458"/>
+    <path d="M192 458 H236 M408 458 H452" stroke-width="12"/>
+  </g>
+</svg>
