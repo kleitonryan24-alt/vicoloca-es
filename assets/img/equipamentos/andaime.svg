@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Ilustração de andaime metálico montado">
+  <defs>
+    <pattern id="tex" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect width="24" height="24" fill="#D9D6D0"/>
+      <circle cx="6" cy="6" r="1.2" fill="#c9c5bd" opacity="0.7"/>
+      <circle cx="18" cy="16" r="1" fill="#c9c5bd" opacity="0.6"/>
+    </pattern>
+  </defs>
+  <rect width="640" height="480" fill="url(#tex)"/>
+  <polygon points="0,440 640,400 640,480 0,480" fill="#333333" opacity="0.12"/>
+  <!-- parede ao fundo -->
+  <rect x="90" y="70" width="460" height="360" fill="#FFFFFF" opacity="0.55"/>
+  <g stroke="#333333" stroke-width="9" stroke-linecap="round" fill="none">
+    <!-- prumas verticais -->
+    <path d="M180 80 V430"/>
+    <path d="M320 80 V430"/>
+    <path d="M460 80 V430"/>
+    <!-- rodapé -->
+    <path d="M180 430 H460" stroke-width="12"/>
+    <!-- travessas horizontais -->
+    <path d="M180 150 H460"/>
+    <path d="M180 290 H460"/>
+    <!-- diagonal -->
+    <path d="M180 150 L320 290" stroke="#FF7900" stroke-width="10"/>
+    <path d="M320 150 L460 290" stroke="#FF7900" stroke-width="10"/>
+  </g>
+  <!-- plataformas -->
+  <g fill="#FF7900" stroke="#333333" stroke-width="7">
+    <rect x="170" y="132" width="300" height="20" rx="4"/>
+    <rect x="170" y="272" width="300" height="20" rx="4"/>
+  </g>
+  <!-- guardas -->
+  <g stroke="#333333" stroke-width="8" stroke-linecap="round" fill="none">
+    <path d="M170 132 V72 M470 132 V72 M170 72 H470"/>
+  </g>
+</svg>

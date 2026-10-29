@@ -1,0 +1,507 @@
+/* Gerado automaticamente por tools/gerar-paginas.ps1 — não edite manualmente.
+   Fonte: dados/catalogo.json (2026-10-29) */
+window.VICOM_CATALOGO = {
+    "atualizadoEm":  "2026-10-29",
+    "aviso":  "CATALOGO DE DEMONSTRACAO. Substitua pelos equipamentos, especificacoes e fotos oficiais da VICOM LOCACOES antes da publicacao.",
+    "categorias":  [
+                       {
+                           "slug":  "betoneiras",
+                           "nome":  "Betoneiras",
+                           "descricao":  "Equipamentos para preparo de concreto e argamassa em obras de diferentes portes.",
+                           "imagem":  "assets/img/equipamentos/betoneira.svg",
+                           "imagemAlt":  "Ilustração de betoneira de construção com tambor inclinado"
+                       },
+                       {
+                           "slug":  "andaimes",
+                           "nome":  "Andaimes",
+                           "descricao":  "Estruturas de acesso e trabalho em altura para fachadas e áreas internas.",
+                           "imagem":  "assets/img/equipamentos/andaime.svg",
+                           "imagemAlt":  "Ilustração de painel de andaime metálico montado em fachada"
+                       },
+                       {
+                           "slug":  "escoras",
+                           "nome":  "Escoras metálicas",
+                           "descricao":  "Escoras reguláveis para sustentação de lajes, vigas e estruturas em concreto.",
+                           "imagem":  "assets/img/equipamentos/escora.svg",
+                           "imagemAlt":  "Ilustração de escora metálica regulável com furos de ajuste"
+                       },
+                       {
+                           "slug":  "compactadores",
+                           "nome":  "Compactadores",
+                           "descricao":  "Máquinas para compactação de solo, aterro e bases em obras e reformas.",
+                           "imagem":  "assets/img/equipamentos/compactador.svg",
+                           "imagemAlt":  "Ilustração de compactador de solo com motor e base vibratória"
+                       },
+                       {
+                           "slug":  "ferramentas",
+                           "nome":  "Marteletes e ferramentas",
+                           "descricao":  "Ferramentas elétricas para quebra, furação e demolição de pequeno e médio porte.",
+                           "imagem":  "assets/img/equipamentos/martelete.svg",
+                           "imagemAlt":  "Ilustração de martelete de construção com punho e broca"
+                       }
+                   ],
+    "equipamentos":  [
+                         {
+                             "slug":  "betoneira-400l",
+                             "nome":  "Betoneira 400 L",
+                             "categoria":  "betoneiras",
+                             "destaque":  true,
+                             "resumo":  "Betoneira com tambor de 400 litros para preparo de concreto e argamassa em obras residenciais e comerciais.",
+                             "descricao":  [
+                                               "A betoneira de 400 litros é um dos equipamentos mais procurados para obras que exigem preparo frequente de concreto e argamassa. O tambor de grande capacidade permite produzir misturas homogêneas com produtividade superior às betoneiras de menor porte.",
+                                               "A estrutura em aço e as rodas de deslocamento facilitam o manuseio no canteiro de obras. O modelo é indicado para quem precisa de rendimento constante ao longo do dia de trabalho."
+                                           ],
+                             "aplicacoes":  [
+                                                "Preparo de concreto armado para fundações, lajes e pilares",
+                                                "Produção de argamassa para alvenaria e reboco",
+                                                "Obras residenciais de pequeno e médio porte",
+                                                "Obras comerciais com necessidade diária de mistura"
+                                            ],
+                             "especificacoes":  [
+                                                    {
+                                                        "rotulo":  "Capacidade do tambor",
+                                                        "valor":  "400 litros"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Motor",
+                                                        "valor":  "Elétrico monofásico (conforme unidade)"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Estrutura",
+                                                        "valor":  "Aço reforçado com rodas de deslocamento"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Alimentação",
+                                                        "valor":  "127 V ou 220 V (conforme unidade)"
+                                                    }
+                                                ],
+                             "orientacoes":  [
+                                                 "Posicione o equipamento em superfície plana e firme antes do uso",
+                                                 "Respeite a carga máxima do tambor indicada pela equipe na entrega",
+                                                 "Após o uso, lave o tambor com água para evitar endurecimento do resíduo"
+                                             ],
+                             "imagem":  "assets/img/equipamentos/betoneira.svg",
+                             "imagemAlt":  "Ilustração de betoneira de construção com tambor inclinado"
+                         },
+                         {
+                             "slug":  "betoneira-350l",
+                             "nome":  "Betoneira 350 L",
+                             "categoria":  "betoneiras",
+                             "destaque":  false,
+                             "resumo":  "Betoneira compacta de 350 litros para reformas, pequenas obras e serviços de alvenaria.",
+                             "descricao":  [
+                                               "A betoneira de 350 litros é a escolha econômica para obras de menor volume. Seu tambor compacto atende bem a reformas residenciais, construções de áreas de serviço e serviços de alvenaria e reboco.",
+                                               "Pode ser operada por um único profissional e deslocada com facilidade pelo canteiro de obras graças às rodas e ao peso reduzido em relação aos modelos de maior capacidade."
+                                           ],
+                             "aplicacoes":  [
+                                                "Reformas residenciais e pequenas construções",
+                                                "Produção de argamassa para reboco e assentamento",
+                                                "Obras de alvenaria em geral",
+                                                "Locais com espaço reduzido de trabalho"
+                                            ],
+                             "especificacoes":  [
+                                                    {
+                                                        "rotulo":  "Capacidade do tambor",
+                                                        "valor":  "350 litros"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Motor",
+                                                        "valor":  "Elétrico monofásico (conforme unidade)"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Estrutura",
+                                                        "valor":  "Aço com rodas de deslocamento"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Alimentação",
+                                                        "valor":  "127 V ou 220 V (conforme unidade)"
+                                                    }
+                                                ],
+                             "orientacoes":  [
+                                                 "Verifique a tensão da rede elétrica antes de conectar o equipamento",
+                                                 "Não sobrecarregue o tambor além da capacidade indicada",
+                                                 "Limpe o tambor diariamente ao final dos serviços"
+                                             ],
+                             "imagem":  "assets/img/equipamentos/betoneira.svg",
+                             "imagemAlt":  "Ilustração de betoneira de construção com tambor inclinado"
+                         },
+                         {
+                             "slug":  "betoneira-560l",
+                             "nome":  "Betoneira 560 L",
+                             "categoria":  "betoneiras",
+                             "destaque":  false,
+                             "resumo":  "Betoneira de alta capacidade, 560 litros, para obras com grande volume diário de concreto e argamassa.",
+                             "descricao":  [
+                                               "Para obras que exigem produção contínua de concreto, a betoneira de 560 litros entrega o maior rendimento por ciclo de mistura da linha. É indicada para construções comerciais, obras de médio porte e serviços contratados por empreitada.",
+                                               "Recomenda-se o uso por profissionais com experiência e com espaço físico adequado para o manuseio do equipamento."
+                                           ],
+                             "aplicacoes":  [
+                                                "Obras comerciais e condomínios",
+                                                "Produção diária de concreto em grande volume",
+                                                "Fundações, lajes e estruturas de concreto armado",
+                                                "Empreitadas com prazo apertado"
+                                            ],
+                             "especificacoes":  [
+                                                    {
+                                                        "rotulo":  "Capacidade do tambor",
+                                                        "valor":  "560 litros"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Motor",
+                                                        "valor":  "Elétrico bifásico ou trifásico (conforme unidade)"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Estrutura",
+                                                        "valor":  "Aço reforçado com rodas de deslocamento"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Alimentação",
+                                                        "valor":  "220 V ou 380 V (conforme unidade)"
+                                                    }
+                                                ],
+                             "orientacoes":  [
+                                                 "Confirme com a equipe a tensão elétrica da unidade antes da locação",
+                                                 "Utilize carrinho ou apoio adequado para o deslocamento no canteiro",
+                                                 "Faça a lavagem do tambor ao final de cada dia de uso"
+                                             ],
+                             "imagem":  "assets/img/equipamentos/betoneira.svg",
+                             "imagemAlt":  "Ilustração de betoneira de construção com tambor inclinado"
+                         },
+                         {
+                             "slug":  "andaime-fachadeiro",
+                             "nome":  "Andaime fachadeiro",
+                             "categoria":  "andaimes",
+                             "destaque":  true,
+                             "resumo":  "Sistema de andaime em painéis metálicos com rodapés, prumos e travessas para trabalho em fachadas.",
+                             "descricao":  [
+                                               "O andaime fachadeiro é composto por painéis metálicos, rodapés, prumos e travessas, permitindo montagem modular na altura desejada para serviços em fachadas.",
+                                               "A altura total e a quantidade de painéis são definidas conforme a necessidade da obra, avaliada junto com a equipe no momento da solicitação de orçamento."
+                                           ],
+                             "aplicacoes":  [
+                                                "Reforma e pintura de fachadas",
+                                                "Revestimento e assentamento de revestimentos externos",
+                                                "Manutenção predial em diferentes alturas",
+                                                "Obras residenciais e comerciais"
+                                            ],
+                             "especificacoes":  [
+                                                    {
+                                                        "rotulo":  "Sistema",
+                                                        "valor":  "Painéis metálicos modulares"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Altura",
+                                                        "valor":  "Montagem modular conforme a obra"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Composição",
+                                                        "valor":  "Painéis, rodapés, prumos, travessas e tapumes"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Inclui",
+                                                        "valor":  "Orientação de montagem com a equipe"
+                                                    }
+                                                ],
+                             "orientacoes":  [
+                                                 "A montagem deve ser feita por profissionais qualificados",
+                                                 "Verifique o nívelamento do terreno antes da montagem",
+                                                 "Não altere a estrutura montada sem orientação da equipe técnica"
+                                             ],
+                             "imagem":  "assets/img/equipamentos/andaime.svg",
+                             "imagemAlt":  "Ilustração de painel de andaime metálico montado em fachada"
+                         },
+                         {
+                             "slug":  "andaime-torre",
+                             "nome":  "Andaime torre",
+                             "categoria":  "andaimes",
+                             "destaque":  false,
+                             "resumo":  "Andaime em torre para acesso a pontos altos com base reduzida, ideal para obras com espaço limitado no solo.",
+                             "descricao":  [
+                                               "O andaime torre atende obras em que o espaço no terreno é limitado e é necessário alcançar pontos altos com estabilidade. A montagem é feita em módulos, conforme a altura exigida pelo serviço.",
+                                               "A quantidade de módulos e as medidas exatas são definidas junto com a equipe, respeitando as condições de cada canteiro."
+                                           ],
+                             "aplicacoes":  [
+                                                "Serviços em pontos altos com base reduzida",
+                                                "Manutenção e pintura em galpões e áreas técnicas",
+                                                "Obras com acesso restrito no nível do terreno",
+                                                "Instalação de estruturas e equipamentos em altura"
+                                            ],
+                             "especificacoes":  [
+                                                    {
+                                                        "rotulo":  "Sistema",
+                                                        "valor":  "Torre modular em módulos metálicos"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Base",
+                                                        "valor":  "Área reduzida em relação ao fachadeiro"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Altura",
+                                                        "valor":  "Montagem modular conforme a obra"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Inclui",
+                                                        "valor":  "Orientação de montagem com a equipe"
+                                                    }
+                                                ],
+                             "orientacoes":  [
+                                                 "Utilize sempre cinturão e sistemas de proteção individuais",
+                                                 "Confirme a resistência do piso de apoio antes da montagem",
+                                                 "Siga as orientações de ancoragem informadas pela equipe"
+                                             ],
+                             "imagem":  "assets/img/equipamentos/andaime.svg",
+                             "imagemAlt":  "Ilustração de andaime torre metálico modular"
+                         },
+                         {
+                             "slug":  "escora-metalica-3m",
+                             "nome":  "Escora metálica 3,00 m",
+                             "categoria":  "escoras",
+                             "destaque":  true,
+                             "resumo":  "Escora metálica regulável de até 3 metros para sustentação de lajes, vigas e formwork em concreto.",
+                             "descricao":  [
+                                               "A escora metálica regulável é utilizada na sustentação de lajes, vigas e estruturas durante a fase de concretagem e cura do concreto. O comprimento de até 3 metros atende a pé-direitos baixos e médios.",
+                                               "O ajuste de altura é feito por furos e pino, permitindo regularção precisa conforme a altura da laje."
+                                           ],
+                             "aplicacoes":  [
+                                                "Sustentação de lajes e vigas em concreto armado",
+                                                "Escoramento de formwork e fôrmas",
+                                                "Reformas com substituição de elementos estruturais",
+                                                "Pé-direitos de até 3 metros"
+                                            ],
+                             "especificacoes":  [
+                                                    {
+                                                        "rotulo":  "Altura regulável",
+                                                        "valor":  "Até 3,00 m"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Material",
+                                                        "valor":  "Aço galvanizado ou pintado"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Ajuste",
+                                                        "valor":  "Por furos e pino de trava"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Aplicação",
+                                                        "valor":  "Uso vertical em escoramento temporário"
+                                                    }
+                                                ],
+                             "orientacoes":  [
+                                                 "O escoramento deve ser planejado por profissional habilitado",
+                                                 "Use base e chapéu de apoio adequados ao tipo de estrutura",
+                                                 "Verifique o travamento dos pinos antes da concretagem"
+                                             ],
+                             "imagem":  "assets/img/equipamentos/escora.svg",
+                             "imagemAlt":  "Ilustração de escora metálica regulável com furos de ajuste"
+                         },
+                         {
+                             "slug":  "escora-metalica-4m",
+                             "nome":  "Escora metálica 4,00 m",
+                             "categoria":  "escoras",
+                             "destaque":  false,
+                             "resumo":  "Escora metálica regulável de até 4 metros para escoramento de lajes em pé-direitos altos.",
+                             "descricao":  [
+                                               "Com alcance de até 4 metros, esta escora metálica atende escoramentos de lajes e vigas em pé-direitos altos, como garagens, mezaninos e áreas industriais.",
+                                               "Assim como os demais modelos, o ajuste é feito por furos e pino, e a quantidade necessária varia conforme o projeto estrutural da obra."
+                                           ],
+                             "aplicacoes":  [
+                                                "Escoramento de lajes em pé-direitos altos",
+                                                "Garagens, subsolos e áreas industriais",
+                                                "Sustentação de vigas e estruturas temporárias",
+                                                "Obras comerciais e residenciais de maior porte"
+                                            ],
+                             "especificacoes":  [
+                                                    {
+                                                        "rotulo":  "Altura regulável",
+                                                        "valor":  "Até 4,00 m"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Material",
+                                                        "valor":  "Aço galvanizado ou pintado"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Ajuste",
+                                                        "valor":  "Por furos e pino de trava"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Aplicação",
+                                                        "valor":  "Uso vertical em escoramento temporário"
+                                                    }
+                                                ],
+                             "orientacoes":  [
+                                                 "O dimensionamento das escoras deve considerar o projeto estrutural",
+                                                 "Distribua as escoras conforme o espaçamento indicado pelo responsável técnico",
+                                                 "Não remova as escoras antes da cura completa do concreto"
+                                             ],
+                             "imagem":  "assets/img/equipamentos/escora.svg",
+                             "imagemAlt":  "Ilustração de escora metálica regulável de maior altura"
+                         },
+                         {
+                             "slug":  "compactador-solo",
+                             "nome":  "Compactador de solo",
+                             "categoria":  "compactadores",
+                             "destaque":  false,
+                             "resumo":  "Compactador de solo com motor a combustão para compactação de terreno, aterros e bases.",
+                             "descricao":  [
+                                               "O compactador de solo (tambores) é utilizado na compactação de terrenos, aterros e bases de pavimentação, aumentando a resistência do solo antes da concretagem ou pavimentação.",
+                                               "É indicado para obras com movimentação de terra e para preparação de áreas de pátio, garagens e fundações."
+                                           ],
+                             "aplicacoes":  [
+                                                "Compactação de terrenos e aterros",
+                                                "Preparação de bases para pavimentação",
+                                                "Áreas de pátio e garagens",
+                                                "Obras com movimentação de terra"
+                                            ],
+                             "especificacoes":  [
+                                                    {
+                                                        "rotulo":  "Tipo",
+                                                        "valor":  "Tambores vibratórios"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Motor",
+                                                        "valor":  "A combustão (conforme unidade)"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Deslocamento",
+                                                        "valor":  "Manual, com guidão"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Aplicação",
+                                                        "valor":  "Solo, aterro e bases"
+                                                    }
+                                                ],
+                             "orientacoes":  [
+                                                 "Use protetor auditivo durante a operação",
+                                                 "Evite compactar muito próximo a estruturas e tubulações aparentes",
+                                                 "Faça abastecimento apenas com o motor desligado e frio"
+                                             ],
+                             "imagem":  "assets/img/equipamentos/compactador.svg",
+                             "imagemAlt":  "Ilustração de compactador de solo com motor e base vibratória"
+                         },
+                         {
+                             "slug":  "placa-vibratoria",
+                             "nome":  "Placa vibratória",
+                             "categoria":  "compactadores",
+                             "destaque":  false,
+                             "resumo":  "Placa vibratória para compactação de solo, areia e brita em obras e reformas.",
+                             "descricao":  [
+                                               "A placa vibratória é um compactador leve e versátil, indicado para compactação de solo, areia, brita e argamassa em espaços reduzidos.",
+                                               "Seu baixo peso e a operação manual a tornam ideal para reformas, calçadas, piscinas e serviços de acabamento de terreno."
+                                           ],
+                             "aplicacoes":  [
+                                                "Compactação em espaços reduzidos",
+                                                "Preparação de base para calçadas e pisos",
+                                                "Obras de piscina e jardim",
+                                                "Reformas residenciais e comerciais"
+                                            ],
+                             "especificacoes":  [
+                                                    {
+                                                        "rotulo":  "Tipo",
+                                                        "valor":  "Placa vibratória manual"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Motor",
+                                                        "valor":  "A combustão (conforme unidade)"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Deslocamento",
+                                                        "valor":  "Manual, com guidão dobrável"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Aplicação",
+                                                        "valor":  "Solo, areia, brita e argamassa"
+                                                    }
+                                                ],
+                             "orientacoes":  [
+                                                 "Utilize calçado de segurança e luvas na operação",
+                                                 "Passe em camadas finas para melhor resultado de compactação",
+                                                 "Abasteça apenas com o motor desligado"
+                                             ],
+                             "imagem":  "assets/img/equipamentos/compactador.svg",
+                             "imagemAlt":  "Ilustração de placa vibratória com guidão"
+                         },
+                         {
+                             "slug":  "martelete-7kg",
+                             "nome":  "Martelete 7 kg",
+                             "categoria":  "ferramentas",
+                             "destaque":  false,
+                             "resumo":  "Martelete rompedor de 7 kg para quebra de concreto, alvenaria e demolição de pequeno porte.",
+                             "descricao":  [
+                                               "O martelete de 7 kg combina função de furação e quebra, atendendo serviços de demolição de pequeno porte, remoção de contrapisos e furação de alvenaria e concreto.",
+                                               "É uma ferramenta indicada para pedreiros, reformas e obras residenciais que exigem impacto com controle."
+                                           ],
+                             "aplicacoes":  [
+                                                "Quebra de contrapisos e alvenaria",
+                                                "Furação em concreto e cerâmica",
+                                                "Remoção de revestimentos e pisos",
+                                                "Reformas residenciais e comerciais"
+                                            ],
+                             "especificacoes":  [
+                                                    {
+                                                        "rotulo":  "Peso",
+                                                        "valor":  "Aproximadamente 7 kg"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Função",
+                                                        "valor":  "Furação e rompimento"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Acessórios",
+                                                        "valor":  "Serra, ponteiro e broca (conforme unidade)"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Alimentação",
+                                                        "valor":  "Elétrica 127 V ou 220 V (conforme unidade)"
+                                                    }
+                                                ],
+                             "orientacoes":  [
+                                                 "Use óculos de proteção, luvas e protetor auditivo",
+                                                 "Verifique a fixação da broca ou ponteiro antes de ligar",
+                                                 "Não force o equipamento em operação contínua prolongada"
+                                             ],
+                             "imagem":  "assets/img/equipamentos/martelete.svg",
+                             "imagemAlt":  "Ilustração de martelete de construção com punho e broca"
+                         },
+                         {
+                             "slug":  "furadeira-impacto",
+                             "nome":  "Furadeira de impacto",
+                             "categoria":  "ferramentas",
+                             "destaque":  false,
+                             "resumo":  "Furadeira de impacto para furação em madeira, alvenaria e concreto em obras e reformas.",
+                             "descricao":  [
+                                               "A furadeira de impacto atende furações em madeira, alvenaria e concreto, sendo uma das ferramentas mais versáteis para reformas e serviços de instalação.",
+                                               "Opcionalmente disponível com haste e jogo de brocas, conforme a unidade escolhida."
+                                           ],
+                             "aplicacoes":  [
+                                                "Furação em alvenaria e concreto",
+                                                "Serviços de instalação elétrica e hidráulica",
+                                                "Montagem de estruturas em madeira",
+                                                "Reformas e pequenos serviços de manutenção"
+                                            ],
+                             "especificacoes":  [
+                                                    {
+                                                        "rotulo":  "Tipo",
+                                                        "valor":  "Impacto"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Função",
+                                                        "valor":  "Furação com percussão"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Acessórios",
+                                                        "valor":  "Haste e brocas (conforme unidade)"
+                                                    },
+                                                    {
+                                                        "rotulo":  "Alimentação",
+                                                        "valor":  "Elétrica 127 V ou 220 V (conforme unidade)"
+                                                    }
+                                                ],
+                             "orientacoes":  [
+                                                 "Use óculos de proteção e luvas durante o uso",
+                                                 "Confirme o tipo de broca adequado ao material",
+                                                 "Descanse o equipamento em furações longas para evitar sobreaquecimento"
+                                             ],
+                             "imagem":  "assets/img/equipamentos/martelete.svg",
+                             "imagemAlt":  "Ilustração de furadeira de impacto"
+                         }
+                     ]
+};

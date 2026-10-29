@@ -1,0 +1,10 @@
+# robots.txt — VICOM LOCAÇÕES
+# Ajuste o domínio em sitemap.xml e canonicals quando o domínio definitivo estiver configurado.
+
+User-agent: *
+Allow: /
+
+# Bloquear páginas de formulário do search se desejado (mantido aberto para indexação do conteúdo):
+# Disallow: /contato.html
+
+Sitemap: https://www.vicomlocacoes.com.br/sitemap.xml
