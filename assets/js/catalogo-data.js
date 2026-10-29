@@ -8,36 +8,36 @@ window.VICOM_CATALOGO = {
                            "slug":  "betoneiras",
                            "nome":  "Betoneiras",
                            "descricao":  "Equipamentos para preparo de concreto e argamassa em obras de diferentes portes.",
-                           "imagem":  "assets/img/equipamentos/betoneira.svg",
-                           "imagemAlt":  "Ilustração de betoneira de construção com tambor inclinado"
+                           "imagem":  "assets/img/equipamentos/fotos/betoneira-400l.jpg",
+                           "imagemAlt":  "Foto de betoneira de construção com tambor laranja em canteiro de obras"
                        },
                        {
                            "slug":  "andaimes",
                            "nome":  "Andaimes",
                            "descricao":  "Estruturas de acesso e trabalho em altura para fachadas e áreas internas.",
-                           "imagem":  "assets/img/equipamentos/andaime.svg",
-                           "imagemAlt":  "Ilustração de painel de andaime metálico montado em fachada"
+                           "imagem":  "assets/img/equipamentos/fotos/andaime-fachadeiro.jpg",
+                           "imagemAlt":  "Foto de andaime metálico montado na fachada de um prédio"
                        },
                        {
                            "slug":  "escoras",
                            "nome":  "Escoras metálicas",
                            "descricao":  "Escoras reguláveis para sustentação de lajes, vigas e estruturas em concreto.",
-                           "imagem":  "assets/img/equipamentos/escora.svg",
-                           "imagemAlt":  "Ilustração de escora metálica regulável com furos de ajuste"
+                           "imagem":  "assets/img/equipamentos/fotos/escora-metalica-3m.jpg",
+                           "imagemAlt":  "Foto de escoras metálicas sustentando uma laje de concreto"
                        },
                        {
                            "slug":  "compactadores",
                            "nome":  "Compactadores",
                            "descricao":  "Máquinas para compactação de solo, aterro e bases em obras e reformas.",
-                           "imagem":  "assets/img/equipamentos/compactador.svg",
-                           "imagemAlt":  "Ilustração de compactador de solo com motor e base vibratória"
+                           "imagem":  "assets/img/equipamentos/fotos/compactador-solo.jpg",
+                           "imagemAlt":  "Foto de compactador de solo tipo americano em canteiro de obras"
                        },
                        {
                            "slug":  "ferramentas",
                            "nome":  "Marteletes e ferramentas",
                            "descricao":  "Ferramentas elétricas para quebra, furação e demolição de pequeno e médio porte.",
-                           "imagem":  "assets/img/equipamentos/martelete.svg",
-                           "imagemAlt":  "Ilustração de martelete de construção com punho e broca"
+                           "imagem":  "assets/img/equipamentos/fotos/martelete-7kg.jpg",
+                           "imagemAlt":  "Foto de martelete rompedor quebrando asfalto em via pública"
                        }
                    ],
     "equipamentos":  [
